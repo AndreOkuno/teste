@@ -1,0 +1,49 @@
+package
+emmet-> ajuda nas tags
+instalar o git-plus
+terminal-puls-> cmd só que dentro do atom
+pigments -> adiciona cor no css
+minimap -> mostra o codigo do lado direito	
+linter -> estrutura melhor, identacao 
+intention -> auto-complete
+hight light select -> ajuda a indentificar as mesmas palavras
+file icons -> lado esq. ajuda nas pastas
+atom-bootstrap4 -> auto complite do bootstrap
+atom- beautfy- estetica
+
+theme
+atom-material-ui só muda o tema
+atom-materail-sintax 
+
+
+
+
+
+Criar repositorio Git
+cd "caminho"
+git init (transforma o caminho em git só faz uma vez)
+git add .
+git commit -m "qualquer coisa"
+(se for a primeira vez copiar no git o caminho)
+git push -u origin master
+
+(nome_remote = origin)
+(nome_branch = master)
+
+git remote add origin https://github.com/MatheusGeorge/OngAndroid.git
+
+git pull origin master (pegar o arquivo do git)
+
+git status (vermelho)
+git add -A (all, salva todas as mudanças, fazer antes de dar o commit)
+git status (verde)
+git commit -m "nome do commit"
+git push origin master (salvar)
+
+git add nome
+git status (ver se deu certo = on branch master, nothing to commit, working tree clean)
+git clone nome_url
+git stash (se deu merda, ex: limpa o projeto e deixa como era antes)
+
+
+-container
